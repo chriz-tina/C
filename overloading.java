@@ -1,4 +1,4 @@
-package oopj24csb48;
+package oopj24csb24;
 import java.util.*;
 class Area{
 	void AreaOfTriangle(double a,double b) {
