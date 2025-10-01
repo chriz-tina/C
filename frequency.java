@@ -1,4 +1,4 @@
-package oopj24csb48;
+package oopj24csb24;
 import java.util.Scanner;
 public class Frequency {
 public static void main(String[] args) {
